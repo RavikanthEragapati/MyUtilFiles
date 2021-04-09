@@ -1,0 +1,12 @@
+IBM WAS 
+to delete a profile if it doesnt work when deleted through tool
+C:\Program Files\IBM\WebSphere\AppServer\bin>manageprofiles -delete -profileName AppSrv04
+
+
+
+Git
+
+git status | grep modified 
+git show --pretty="" --name-only 2a73d648a35
+git merge --abort 
+git shortlog -s -n --all --no-merges
