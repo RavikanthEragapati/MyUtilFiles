@@ -5,8 +5,11 @@ C:\Program Files\IBM\WebSphere\AppServer\bin>manageprofiles -delete -profileName
 
 
 Git
-
 git status | grep modified 
 git show --pretty="" --name-only 2a73d648a35
 git merge --abort 
 git shortlog -s -n --all --no-merges
+
+
+Windows Screenshot
+C:\Users\eragapatir\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets
